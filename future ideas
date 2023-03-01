@@ -1,0 +1,4 @@
+Create a form to input a new personal quote and add it to the list
+Will imply creating and setting up a database to store information.
+
+add a new button for the 'quote of the day' using the api https://zenquotes.io/api/today

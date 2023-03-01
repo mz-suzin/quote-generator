@@ -1,0 +1,14 @@
+[
+    {
+        "text": "The most important step a man can take is always the next one",
+        "author": "Dalinar Kholin"
+    },
+    {
+        "text": "Let's leave it the way it is, so we shall see how it will be",
+        "author": "Matheus Suzin"
+    },
+    {
+        "text": "Sometimes the solution is to think less about your problems",
+        "author": "Sam Harris"
+    }
+]
